@@ -10,4 +10,4 @@ Steps:
   1. run main.py
   2. enter the folder containing the barcode## folders
 
-The program will then automatically convert from FASTq to FASTA and run it and output the results to BLASTn
+The program will convert from FASTq to FASTA, run it through BLASTn and output the results to XML files
