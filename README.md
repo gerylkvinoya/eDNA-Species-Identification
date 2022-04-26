@@ -3,7 +3,9 @@
 This project takes a folder containing barcode sequences, trims each sequence, and combines the sequences under the same barcode
 
 Requirements:
+
   Pysam
+  
   BioPython
 
 Steps:
